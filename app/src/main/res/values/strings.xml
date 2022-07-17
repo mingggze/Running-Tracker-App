@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">runningTracker</string>
+    <string name="start_button">START</string>
+    <string name="pause_button">PAUSE</string>
+    <string name="stop_button">STOP</string>
+    <string name="allruns_button">ALL RUNS</string>
+    <string name="delete_button">DELETE RECORD</string>
+    <string name="update_button">UPDATE</string>
+    <string name="selectimage_button">SELECT AN IMAGE</string>
+    <string name="timer_string">00:00</string>
+    <string name="distance_string">0.00km</string>
+    <string name="info_hint">Enter Information</string>
+    <string name="show_time_string">Date/Time:</string>
+    <string name="show_distance_string">Distance:</string>
+    <string name="show_duration_string">Duration:</string>
+    <string name="show_des_string">Additional Note: </string>
+    <string name="empty_string"></string>
+    <string name="dash_string">-</string>
+
+</resources>
